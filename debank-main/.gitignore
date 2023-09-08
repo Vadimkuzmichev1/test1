@@ -1,0 +1,11 @@
+/venv/
+.idea/
+/key.py
+/data/
+/result/
+/checker_starknet.py
+/checker_zksync.py
+/fee_checker.py
+/requirements.txt
+/stable_checker.py
+/transaction_history.json
